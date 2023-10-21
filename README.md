@@ -13,3 +13,7 @@ As a sports analysts, find out the most succeccful teams, players and factors co
 Suggest teams or players a company should endorse for its products.
 
 Dataset:https://bit.ly/34SRn3b
+
+Tool used:Jupyter Notebook
+
+Libraries used:NumPy, Pandas, Matplotlib, Seaborn
